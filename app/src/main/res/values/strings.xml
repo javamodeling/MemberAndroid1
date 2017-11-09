@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Member Android</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="title_name">Name</string>
+    <string name="title_email">Email</string>
+
+</resources>
